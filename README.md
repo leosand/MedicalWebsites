@@ -6,7 +6,7 @@ Un site web moderne et professionnel pour un établissement de santé, développ
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/votre-username/meddical-website.git
+git clone https://github.com/your-username/meddical-website.git
 cd meddical-website
 ```
 
